@@ -1,3 +1,24 @@
+This is a Simple React app which is bases on basic concepts:
+like usestates,localStorages,hooks and controlled components,
+
+The Basic Functionalities of the project are as follows:
+  1. Add Items, 
+  2. Deletes Items,
+  3. Checks and Un-checks item,
+  4. Keeps track of total items
+  5. Searches specific items
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
