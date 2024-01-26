@@ -1,5 +1,5 @@
 This is a Simple React app which is bases on basic concepts:
-like usestates,localStorages,hooks and controlled components,
+like usestates,localStorages,hooks and controlled components
 
 The Basic Functionalities of the project are as follows:
   1. Add Items, 
